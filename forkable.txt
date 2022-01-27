@@ -1,0 +1,3 @@
+Just a dummy text file to demonstrate forking in GIT
+Also see how crlf vs lf is handled
+And of course, hello world!
